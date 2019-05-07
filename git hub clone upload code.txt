@@ -1,0 +1,10 @@
+cd f:/Github(clone github文件地址)
+git clone https://github.com/superdebugman/project.git(clonegithub文件链接)
+
+
+cd f:/Github/project(待上传文件地址)
+ls(查看文件夹中文件)
+
+git add XXX.XXX(上传文件)
+git commit -m"此处添加文件注释"
+git push origin master
